@@ -1,0 +1,7 @@
+Method Overloading
+
+In a class (in same class) if there are multiple methods
+with same method name but different argument is present it is called as "Methods overloading".
+
+Also whenever we are using methods calling with argument within class 1 single class also we 
+called that methods is methods overloading concept.
