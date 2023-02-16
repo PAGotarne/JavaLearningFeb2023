@@ -11,7 +11,7 @@ public class UnaryOperators {
 		int r= 10;
 		System.out.println(r++);//10++ (11) post fix precedence + sign expression
 		System.out.println(++r);//prefix precedence 12 (11+1)
-		System.out.println(r--);//12 (12-1) (11) postfix precedence sign expression
+		System.out.println(r--);//12 (12-1) (11) post fix precedence sign expression
 		System.out.println(--r);//10 (1 -11) prefix precedence
 
 	}
