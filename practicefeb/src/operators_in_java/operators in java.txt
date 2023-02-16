@@ -14,4 +14,20 @@ java operator precedence
 1. Unary operator	PostFix --> expr++, expr--
 					Prefix 	-->	++expr, --expr
 								+expr,-expr, ~!
-								
+2. Arithmatic operator 	multiplicative 	--> *, /, %
+						aditive			-->	+ -
+3. shift operator 		shift	-->		<<, >>, >>>
+4. ternary 				terary 	-->		?, :
+5. Relational operator	comparision	-->	<, >, <=, =>
+						equality 	--> ==, !=
+6. Bitwise operator		bitwise AND	--> &
+						bitwise
+						escclusive OR	--> ^
+						bitwise 
+						inclusive OR	-->	|
+7. Logical				Logical AND		--> &&
+						Logical OR		--> ||
+8. Assignment			assignment 		--> =, +=, -=, *=, /=
+											%=, &=, ^=, |=, <<=
+											>>=, >>>=
+						
