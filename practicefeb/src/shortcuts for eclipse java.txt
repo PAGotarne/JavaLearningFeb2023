@@ -1,0 +1,2 @@
+1. for print syntax type "sysout" and type CTRL + space
+2. Shift + Alt + r for rename the class 
