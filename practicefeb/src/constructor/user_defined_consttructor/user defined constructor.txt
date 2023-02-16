@@ -1,0 +1,4 @@
+>	A programmer is declaring constructor in java class then it is considered to be user defined constructor
+>	User defined constructor is divided into two types
+	1. zero argument constructor and
+	2. parameterised constructor

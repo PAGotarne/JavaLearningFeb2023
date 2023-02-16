@@ -1,0 +1,34 @@
+Constructor --
+* 	Constructor are used to initialize of data member(variables) of class and to load non-static
+	member/method into object
+*	Constructor is a block similar to method
+* 	Constructor are special member of class
+*	According to java each class must have a constructor, if no constructor is present then at time of
+	compilation compiler will create a default constructor will have a blank body
+*	At the time of constructor declaration below are points need to followed
+	>	Constructor name should be same as class name
+	>	We should not declare any return type for constructor
+	>	Any number of constructor can be declare in class but name should same as class name but having
+		different argument.
+		
+Ways to call a constructor
+	1. By creating object of a class
+		> constructor executes automatically when we create an object
+	2. By using 'new' keyword with constructor name with method signature followed by semicolon
+		> i.e. new ConstructorName();
+		
+There are 2 types of constructor
+	1. Default constructor
+	2. User defined constructor
+		a. zero argument/non argument constructor
+		b. parameterized/ argument constructor
+		
+		
+
+
+
+
+
+
+
+
